@@ -11,7 +11,7 @@
 
     <properties>
         <serenity.version>3.3.4</serenity.version>
-        <junit5.version>5.8.2</junit5.version>
+        <junit5.version>5.9.0</junit5.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <encoding>UTF-8</encoding>
         <tags></tags>
@@ -33,7 +33,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.2.11</version>
+            <version>1.4.3</version>
         </dependency>
         <!-- JUNIT 5 DEPENDENCY-->
         <dependency>
@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.22.0</version>
+            <version>3.23.1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
